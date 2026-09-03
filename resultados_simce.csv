@@ -1,0 +1,293 @@
+ID_alumno,Curso,Estudiante,Ensayo,Puntaje,Estado
+6A - Bernal,6A,Bernal,Ensayo 1,,Ausente
+6A - Bernal,6A,Bernal,Ensayo 2,0.43,Presente
+6A - Bernal,6A,Bernal,Ensayo 3,0.69,Presente
+6A - Bernal,6A,Bernal,Ensayo 4,0.54,Presente
+6A - Briones,6A,Briones,Ensayo 1,0.73,Presente
+6A - Briones,6A,Briones,Ensayo 2,0.46,Presente
+6A - Briones,6A,Briones,Ensayo 3,0.49,Presente
+6A - Briones,6A,Briones,Ensayo 4,0.51,Presente
+6A - Burgos,6A,Burgos,Ensayo 1,0.93,Presente
+6A - Burgos,6A,Burgos,Ensayo 2,,Ausente
+6A - Burgos,6A,Burgos,Ensayo 3,0.83,Presente
+6A - Burgos,6A,Burgos,Ensayo 4,0.91,Presente
+6A - Bustos,6A,Bustos,Ensayo 1,0.7,Presente
+6A - Bustos,6A,Bustos,Ensayo 2,,Ausente
+6A - Bustos,6A,Bustos,Ensayo 3,0.63,Presente
+6A - Bustos,6A,Bustos,Ensayo 4,0.8,Presente
+6A - Caceres,6A,Caceres,Ensayo 1,0.83,Presente
+6A - Caceres,6A,Caceres,Ensayo 2,0.6,Presente
+6A - Caceres,6A,Caceres,Ensayo 3,0.89,Presente
+6A - Caceres,6A,Caceres,Ensayo 4,0.74,Presente
+6A - Carrasco,6A,Carrasco,Ensayo 1,,Ausente
+6A - Carrasco,6A,Carrasco,Ensayo 2,0.8,Presente
+6A - Carrasco,6A,Carrasco,Ensayo 3,0.91,Presente
+6A - Carrasco,6A,Carrasco,Ensayo 4,0.89,Presente
+6A - Castañon,6A,Castañon,Ensayo 1,0.7,Presente
+6A - Castañon,6A,Castañon,Ensayo 2,0.57,Presente
+6A - Castañon,6A,Castañon,Ensayo 3,0.57,Presente
+6A - Castañon,6A,Castañon,Ensayo 4,,Ausente
+6A - Chaparro,6A,Chaparro,Ensayo 1,0.78,Presente
+6A - Chaparro,6A,Chaparro,Ensayo 2,,Ausente
+6A - Chaparro,6A,Chaparro,Ensayo 3,0.83,Presente
+6A - Chaparro,6A,Chaparro,Ensayo 4,0.71,Presente
+6A - Chavez,6A,Chavez,Ensayo 1,0.55,Presente
+6A - Chavez,6A,Chavez,Ensayo 2,,Ausente
+6A - Chavez,6A,Chavez,Ensayo 3,0.71,Presente
+6A - Chavez,6A,Chavez,Ensayo 4,0.74,Presente
+6A - Fonseca,6A,Fonseca,Ensayo 1,0.58,Presente
+6A - Fonseca,6A,Fonseca,Ensayo 2,0.37,Presente
+6A - Fonseca,6A,Fonseca,Ensayo 3,0.57,Presente
+6A - Fonseca,6A,Fonseca,Ensayo 4,0.31,Presente
+6A - González,6A,González,Ensayo 1,0.78,Presente
+6A - González,6A,González,Ensayo 2,0.6,Presente
+6A - González,6A,González,Ensayo 3,0.77,Presente
+6A - González,6A,González,Ensayo 4,0.8,Presente
+6A - Gutiérrez,6A,Gutiérrez,Ensayo 1,0.35,Presente
+6A - Gutiérrez,6A,Gutiérrez,Ensayo 2,0.29,Presente
+6A - Gutiérrez,6A,Gutiérrez,Ensayo 3,0.51,Presente
+6A - Gutiérrez,6A,Gutiérrez,Ensayo 4,0.54,Presente
+6A - León,6A,León,Ensayo 1,0.48,Presente
+6A - León,6A,León,Ensayo 2,0.51,Presente
+6A - León,6A,León,Ensayo 3,0.49,Presente
+6A - León,6A,León,Ensayo 4,0.54,Presente
+6A - Luarte,6A,Luarte,Ensayo 1,0.63,Presente
+6A - Luarte,6A,Luarte,Ensayo 2,0.51,Presente
+6A - Luarte,6A,Luarte,Ensayo 3,0.54,Presente
+6A - Luarte,6A,Luarte,Ensayo 4,0.51,Presente
+6A - Moreno,6A,Moreno,Ensayo 1,0.63,Presente
+6A - Moreno,6A,Moreno,Ensayo 2,0.46,Presente
+6A - Moreno,6A,Moreno,Ensayo 3,0.4,Presente
+6A - Moreno,6A,Moreno,Ensayo 4,,Ausente
+6A - Placencia,6A,Placencia,Ensayo 1,0.58,Presente
+6A - Placencia,6A,Placencia,Ensayo 2,0.51,Presente
+6A - Placencia,6A,Placencia,Ensayo 3,0.57,Presente
+6A - Placencia,6A,Placencia,Ensayo 4,,Ausente
+6A - Rodríguez,6A,Rodríguez,Ensayo 1,0.45,Presente
+6A - Rodríguez,6A,Rodríguez,Ensayo 2,0.4,Presente
+6A - Rodríguez,6A,Rodríguez,Ensayo 3,0.66,Presente
+6A - Rodríguez,6A,Rodríguez,Ensayo 4,0.66,Presente
+6A - Salazar I,6A,Salazar I,Ensayo 1,0.7,Presente
+6A - Salazar I,6A,Salazar I,Ensayo 2,0.71,Presente
+6A - Salazar I,6A,Salazar I,Ensayo 3,0.69,Presente
+6A - Salazar I,6A,Salazar I,Ensayo 4,0.77,Presente
+6A - Salazar V,6A,Salazar V,Ensayo 1,,Ausente
+6A - Salazar V,6A,Salazar V,Ensayo 2,0.6,Presente
+6A - Salazar V,6A,Salazar V,Ensayo 3,,Ausente
+6A - Salazar V,6A,Salazar V,Ensayo 4,0.46,Presente
+6A - Sepúlveda,6A,Sepúlveda,Ensayo 1,0.93,Presente
+6A - Sepúlveda,6A,Sepúlveda,Ensayo 2,0.49,Presente
+6A - Sepúlveda,6A,Sepúlveda,Ensayo 3,0.91,Presente
+6A - Sepúlveda,6A,Sepúlveda,Ensayo 4,0.89,Presente
+6A - Silva,6A,Silva,Ensayo 1,0.5,Presente
+6A - Silva,6A,Silva,Ensayo 2,0.31,Presente
+6A - Silva,6A,Silva,Ensayo 3,0.23,Presente
+6A - Silva,6A,Silva,Ensayo 4,0.43,Presente
+6A - Vila,6A,Vila,Ensayo 1,0.4,Presente
+6A - Vila,6A,Vila,Ensayo 2,,Ausente
+6A - Vila,6A,Vila,Ensayo 3,0.29,Presente
+6A - Vila,6A,Vila,Ensayo 4,0.29,Presente
+6A - Vizcarra,6A,Vizcarra,Ensayo 1,0.58,Presente
+6A - Vizcarra,6A,Vizcarra,Ensayo 2,0.74,Presente
+6A - Vizcarra,6A,Vizcarra,Ensayo 3,0.74,Presente
+6A - Vizcarra,6A,Vizcarra,Ensayo 4,0.51,Presente
+6A - Promedio del Curso,6A,Promedio del Curso,Ensayo 1,0.6405000000000001,Presente
+6A - Promedio del Curso,6A,Promedio del Curso,Ensayo 2,0.52,Presente
+6A - Promedio del Curso,6A,Promedio del Curso,Ensayo 3,0.6327272727272727,Presente
+6A - Promedio del Curso,6A,Promedio del Curso,Ensayo 4,0.6275,Presente
+6B - Chiang,6B,Chiang,Ensayo 1,0.65,Presente
+6B - Chiang,6B,Chiang,Ensayo 2,0.49,Presente
+6B - Chiang,6B,Chiang,Ensayo 3,0.46,Presente
+6B - Chiang,6B,Chiang,Ensayo 4,0.54,Presente
+6B - Ferrada,6B,Ferrada,Ensayo 1,0.78,Presente
+6B - Ferrada,6B,Ferrada,Ensayo 2,0.57,Presente
+6B - Ferrada,6B,Ferrada,Ensayo 3,0.71,Presente
+6B - Ferrada,6B,Ferrada,Ensayo 4,0.77,Presente
+6B - Fuentes,6B,Fuentes,Ensayo 1,0.7,Presente
+6B - Fuentes,6B,Fuentes,Ensayo 2,0.57,Presente
+6B - Fuentes,6B,Fuentes,Ensayo 3,0.66,Presente
+6B - Fuentes,6B,Fuentes,Ensayo 4,0.71,Presente
+6B - Godoy,6B,Godoy,Ensayo 1,0.4,Presente
+6B - Godoy,6B,Godoy,Ensayo 2,0.46,Presente
+6B - Godoy,6B,Godoy,Ensayo 3,0.43,Presente
+6B - Godoy,6B,Godoy,Ensayo 4,0.49,Presente
+6B - Hernandez,6B,Hernandez,Ensayo 1,0.55,Presente
+6B - Hernandez,6B,Hernandez,Ensayo 2,0.54,Presente
+6B - Hernandez,6B,Hernandez,Ensayo 3,0.14,Presente
+6B - Hernandez,6B,Hernandez,Ensayo 4,0.51,Presente
+6B - Lecaros,6B,Lecaros,Ensayo 1,0.95,Presente
+6B - Lecaros,6B,Lecaros,Ensayo 2,0.74,Presente
+6B - Lecaros,6B,Lecaros,Ensayo 3,0.89,Presente
+6B - Lecaros,6B,Lecaros,Ensayo 4,0.89,Presente
+6B - Leiva,6B,Leiva,Ensayo 1,0.58,Presente
+6B - Leiva,6B,Leiva,Ensayo 2,0.54,Presente
+6B - Leiva,6B,Leiva,Ensayo 3,0.69,Presente
+6B - Leiva,6B,Leiva,Ensayo 4,0.57,Presente
+6B - Maltes,6B,Maltes,Ensayo 1,0.35,Presente
+6B - Maltes,6B,Maltes,Ensayo 2,0.43,Presente
+6B - Maltes,6B,Maltes,Ensayo 3,0.49,Presente
+6B - Maltes,6B,Maltes,Ensayo 4,0.51,Presente
+6B - Mendoza,6B,Mendoza,Ensayo 1,,Ausente
+6B - Mendoza,6B,Mendoza,Ensayo 2,,Ausente
+6B - Mendoza,6B,Mendoza,Ensayo 3,0.74,Presente
+6B - Mendoza,6B,Mendoza,Ensayo 4,0.86,Presente
+6B - Meriño,6B,Meriño,Ensayo 1,0.73,Presente
+6B - Meriño,6B,Meriño,Ensayo 2,0.66,Presente
+6B - Meriño,6B,Meriño,Ensayo 3,0.74,Presente
+6B - Meriño,6B,Meriño,Ensayo 4,0.74,Presente
+6B - Ordenes,6B,Ordenes,Ensayo 1,0.75,Presente
+6B - Ordenes,6B,Ordenes,Ensayo 2,0.57,Presente
+6B - Ordenes,6B,Ordenes,Ensayo 3,0.29,Presente
+6B - Ordenes,6B,Ordenes,Ensayo 4,0.37,Presente
+6B - Retamal,6B,Retamal,Ensayo 1,0.78,Presente
+6B - Retamal,6B,Retamal,Ensayo 2,0.77,Presente
+6B - Retamal,6B,Retamal,Ensayo 3,0.8,Presente
+6B - Retamal,6B,Retamal,Ensayo 4,0.8,Presente
+6B - Rodriguez,6B,Rodriguez,Ensayo 1,0.5,Presente
+6B - Rodriguez,6B,Rodriguez,Ensayo 2,0.49,Presente
+6B - Rodriguez,6B,Rodriguez,Ensayo 3,0.6,Presente
+6B - Rodriguez,6B,Rodriguez,Ensayo 4,0.46,Presente
+6B - Rubilar,6B,Rubilar,Ensayo 1,0.93,Presente
+6B - Rubilar,6B,Rubilar,Ensayo 2,1.0,Presente
+6B - Rubilar,6B,Rubilar,Ensayo 3,0.8,Presente
+6B - Rubilar,6B,Rubilar,Ensayo 4,0.83,Presente
+6B - Ruminot,6B,Ruminot,Ensayo 1,0.63,Presente
+6B - Ruminot,6B,Ruminot,Ensayo 2,0.66,Presente
+6B - Ruminot,6B,Ruminot,Ensayo 3,0.77,Presente
+6B - Ruminot,6B,Ruminot,Ensayo 4,0.66,Presente
+6B - San Martín,6B,San Martín,Ensayo 1,,Ausente
+6B - San Martín,6B,San Martín,Ensayo 2,,Ausente
+6B - San Martín,6B,San Martín,Ensayo 3,0.66,Presente
+6B - San Martín,6B,San Martín,Ensayo 4,0.57,Presente
+6B - Sanchez,6B,Sanchez,Ensayo 1,0.58,Presente
+6B - Sanchez,6B,Sanchez,Ensayo 2,0.37,Presente
+6B - Sanchez,6B,Sanchez,Ensayo 3,0.71,Presente
+6B - Sanchez,6B,Sanchez,Ensayo 4,0.57,Presente
+6B - Silva B,6B,Silva B,Ensayo 1,0.78,Presente
+6B - Silva B,6B,Silva B,Ensayo 2,0.71,Presente
+6B - Silva B,6B,Silva B,Ensayo 3,0.86,Presente
+6B - Silva B,6B,Silva B,Ensayo 4,0.83,Presente
+6B - Silva I,6B,Silva I,Ensayo 1,,Ausente
+6B - Silva I,6B,Silva I,Ensayo 2,,Ausente
+6B - Silva I,6B,Silva I,Ensayo 3,0.6,Presente
+6B - Silva I,6B,Silva I,Ensayo 4,0.54,Presente
+6B - Torres,6B,Torres,Ensayo 1,0.63,Presente
+6B - Torres,6B,Torres,Ensayo 2,0.54,Presente
+6B - Torres,6B,Torres,Ensayo 3,0.6,Presente
+6B - Torres,6B,Torres,Ensayo 4,0.63,Presente
+6B - Valenzuela,6B,Valenzuela,Ensayo 1,0.65,Presente
+6B - Valenzuela,6B,Valenzuela,Ensayo 2,0.63,Presente
+6B - Valenzuela,6B,Valenzuela,Ensayo 3,0.69,Presente
+6B - Valenzuela,6B,Valenzuela,Ensayo 4,,Ausente
+6B - Vallejos,6B,Vallejos,Ensayo 1,0.7,Presente
+6B - Vallejos,6B,Vallejos,Ensayo 2,0.51,Presente
+6B - Vallejos,6B,Vallejos,Ensayo 3,0.8,Presente
+6B - Vallejos,6B,Vallejos,Ensayo 4,,Ausente
+6B - Villalobos,6B,Villalobos,Ensayo 1,0.5,Presente
+6B - Villalobos,6B,Villalobos,Ensayo 2,0.6,Presente
+6B - Villalobos,6B,Villalobos,Ensayo 3,0.34,Presente
+6B - Villalobos,6B,Villalobos,Ensayo 4,0.34,Presente
+6B - Zapata,6B,Zapata,Ensayo 1,0.95,Presente
+6B - Zapata,6B,Zapata,Ensayo 2,0.77,Presente
+6B - Zapata,6B,Zapata,Ensayo 3,0.97,Presente
+6B - Zapata,6B,Zapata,Ensayo 4,0.89,Presente
+6B - Promedio del Curso,6B,Promedio del Curso,Ensayo 1,0.67,Presente
+6B - Promedio del Curso,6B,Promedio del Curso,Ensayo 2,0.6009523809523809,Presente
+6B - Promedio del Curso,6B,Promedio del Curso,Ensayo 3,0.6433333333333334,Presente
+6B - Promedio del Curso,6B,Promedio del Curso,Ensayo 4,0.6400000000000001,Presente
+6C - Agurto,6C,Agurto,Ensayo 1,0.68,Presente
+6C - Agurto,6C,Agurto,Ensayo 2,0.46,Presente
+6C - Agurto,6C,Agurto,Ensayo 3,0.46,Presente
+6C - Agurto,6C,Agurto,Ensayo 4,0.49,Presente
+6C - Andrades,6C,Andrades,Ensayo 1,0.45,Presente
+6C - Andrades,6C,Andrades,Ensayo 2,0.4,Presente
+6C - Andrades,6C,Andrades,Ensayo 3,0.29,Presente
+6C - Andrades,6C,Andrades,Ensayo 4,0.23,Presente
+6C - Becerra,6C,Becerra,Ensayo 1,0.43,Presente
+6C - Becerra,6C,Becerra,Ensayo 2,0.6,Presente
+6C - Becerra,6C,Becerra,Ensayo 3,0.6,Presente
+6C - Becerra,6C,Becerra,Ensayo 4,0.43,Presente
+6C - Cartes,6C,Cartes,Ensayo 1,0.95,Presente
+6C - Cartes,6C,Cartes,Ensayo 2,0.97,Presente
+6C - Cartes,6C,Cartes,Ensayo 3,0.97,Presente
+6C - Cartes,6C,Cartes,Ensayo 4,0.94,Presente
+6C - Catelican,6C,Catelican,Ensayo 1,0.78,Presente
+6C - Catelican,6C,Catelican,Ensayo 2,0.46,Presente
+6C - Catelican,6C,Catelican,Ensayo 3,0.51,Presente
+6C - Catelican,6C,Catelican,Ensayo 4,,Ausente
+6C - Chavez,6C,Chavez,Ensayo 1,0.83,Presente
+6C - Chavez,6C,Chavez,Ensayo 2,0.69,Presente
+6C - Chavez,6C,Chavez,Ensayo 3,0.97,Presente
+6C - Chavez,6C,Chavez,Ensayo 4,0.83,Presente
+6C - Elqueta,6C,Elqueta,Ensayo 1,0.35,Presente
+6C - Elqueta,6C,Elqueta,Ensayo 2,0.46,Presente
+6C - Elqueta,6C,Elqueta,Ensayo 3,0.4,Presente
+6C - Elqueta,6C,Elqueta,Ensayo 4,,Ausente
+6C - Figueroa,6C,Figueroa,Ensayo 1,0.6,Presente
+6C - Figueroa,6C,Figueroa,Ensayo 2,0.74,Presente
+6C - Figueroa,6C,Figueroa,Ensayo 3,0.77,Presente
+6C - Figueroa,6C,Figueroa,Ensayo 4,0.23,Presente
+6C - Guzman,6C,Guzman,Ensayo 1,0.85,Presente
+6C - Guzman,6C,Guzman,Ensayo 2,,Ausente
+6C - Guzman,6C,Guzman,Ensayo 3,0.83,Presente
+6C - Guzman,6C,Guzman,Ensayo 4,0.89,Presente
+6C - Heredia,6C,Heredia,Ensayo 1,0.78,Presente
+6C - Heredia,6C,Heredia,Ensayo 2,0.49,Presente
+6C - Heredia,6C,Heredia,Ensayo 3,0.74,Presente
+6C - Heredia,6C,Heredia,Ensayo 4,0.69,Presente
+6C - Latorre,6C,Latorre,Ensayo 1,,Ausente
+6C - Latorre,6C,Latorre,Ensayo 2,0.54,Presente
+6C - Latorre,6C,Latorre,Ensayo 3,0.51,Presente
+6C - Latorre,6C,Latorre,Ensayo 4,,Ausente
+6C - Mora,6C,Mora,Ensayo 1,0.63,Presente
+6C - Mora,6C,Mora,Ensayo 2,0.63,Presente
+6C - Mora,6C,Mora,Ensayo 3,0.74,Presente
+6C - Mora,6C,Mora,Ensayo 4,0.57,Presente
+6C - Moreno,6C,Moreno,Ensayo 1,0.48,Presente
+6C - Moreno,6C,Moreno,Ensayo 2,0.71,Presente
+6C - Moreno,6C,Moreno,Ensayo 3,0.31,Presente
+6C - Moreno,6C,Moreno,Ensayo 4,0.2,Presente
+6C - Muñoz,6C,Muñoz,Ensayo 1,,Ausente
+6C - Muñoz,6C,Muñoz,Ensayo 2,0.94,Presente
+6C - Muñoz,6C,Muñoz,Ensayo 3,0.94,Presente
+6C - Muñoz,6C,Muñoz,Ensayo 4,0.8,Presente
+6C - Oñate,6C,Oñate,Ensayo 1,0.68,Presente
+6C - Oñate,6C,Oñate,Ensayo 2,0.57,Presente
+6C - Oñate,6C,Oñate,Ensayo 3,0.74,Presente
+6C - Oñate,6C,Oñate,Ensayo 4,,Ausente
+6C - Parraguez,6C,Parraguez,Ensayo 1,,Ausente
+6C - Parraguez,6C,Parraguez,Ensayo 2,0.31,Presente
+6C - Parraguez,6C,Parraguez,Ensayo 3,0.31,Presente
+6C - Parraguez,6C,Parraguez,Ensayo 4,0.28,Presente
+6C - Rebolledo,6C,Rebolledo,Ensayo 1,0.5,Presente
+6C - Rebolledo,6C,Rebolledo,Ensayo 2,0.43,Presente
+6C - Rebolledo,6C,Rebolledo,Ensayo 3,,Ausente
+6C - Rebolledo,6C,Rebolledo,Ensayo 4,,Ausente
+6C - Riquelme,6C,Riquelme,Ensayo 1,0.65,Presente
+6C - Riquelme,6C,Riquelme,Ensayo 2,0.77,Presente
+6C - Riquelme,6C,Riquelme,Ensayo 3,0.63,Presente
+6C - Riquelme,6C,Riquelme,Ensayo 4,0.6,Presente
+6C - Silva,6C,Silva,Ensayo 1,0.68,Presente
+6C - Silva,6C,Silva,Ensayo 2,0.57,Presente
+6C - Silva,6C,Silva,Ensayo 3,0.63,Presente
+6C - Silva,6C,Silva,Ensayo 4,,Ausente
+6C - Suarez,6C,Suarez,Ensayo 1,0.65,Presente
+6C - Suarez,6C,Suarez,Ensayo 2,0.46,Presente
+6C - Suarez,6C,Suarez,Ensayo 3,0.57,Presente
+6C - Suarez,6C,Suarez,Ensayo 4,0.37,Presente
+6C - Toledo,6C,Toledo,Ensayo 1,0.7,Presente
+6C - Toledo,6C,Toledo,Ensayo 2,0.6,Presente
+6C - Toledo,6C,Toledo,Ensayo 3,0.57,Presente
+6C - Toledo,6C,Toledo,Ensayo 4,,Ausente
+6C - Torres,6C,Torres,Ensayo 1,0.68,Presente
+6C - Torres,6C,Torres,Ensayo 2,0.51,Presente
+6C - Torres,6C,Torres,Ensayo 3,,Ausente
+6C - Torres,6C,Torres,Ensayo 4,0.63,Presente
+6C - Valdes,6C,Valdes,Ensayo 1,,Ausente
+6C - Valdes,6C,Valdes,Ensayo 2,,Ausente
+6C - Valdes,6C,Valdes,Ensayo 3,0.23,Presente
+6C - Valdes,6C,Valdes,Ensayo 4,0.31,Presente
+6C - Promedio del Curso,6C,Promedio del Curso,Ensayo 1,0.6499999999999999,Presente
+6C - Promedio del Curso,6C,Promedio del Curso,Ensayo 2,0.5861904761904763,Presente
+6C - Promedio del Curso,6C,Promedio del Curso,Ensayo 3,0.6057142857142859,Presente
+6C - Promedio del Curso,6C,Promedio del Curso,Ensayo 4,0.5306250000000001,Presente
